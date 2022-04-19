@@ -1,0 +1,18 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "Bot to check stock of TGS tech team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Boss Code",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "glob": "^7.2.0",
+    "mysql2": "^2.3.3",
+    "os-utils": "^0.0.14"
+  }
+}
